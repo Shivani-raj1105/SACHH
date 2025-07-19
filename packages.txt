@@ -1,0 +1,3 @@
+# System packages for deployment
+build-essential
+python3-dev 
